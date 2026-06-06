@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there. My name is Eneko and I'm a software engineer specialized in full stack development.
 
-<!--
-**eneekoruiz/eneekoruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My day-to-day consists of wrestling with **TypeScript** and **Java** to build robust APIs and scalable cloud architectures. I don't like over-engineering things; I focus on writing clean, maintainable code that actually solves problems.
 
-Here are some ideas to get you started:
+When I'm not in front of the keyboard, I'm probably out trail running in the mountains, trying to brew the perfect specialty coffee, or reading about history.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm not much for writing long bios, so I'll let my code speak for itself in the repos down below. 👇
+
+I'm always open to collaborating on interesting stuff or just connecting. You can find me on [LinkedIn](https://linkedin.com/in/eneekoruiz) or drop me a line at [eneekoruiz@gmail.com](mailto:eneekoruiz@gmail.com).
+
+```console
+
+            ███████╗███╗   ██╗███████╗██╗  ██╗ ██████╗     ██████╗ ██╗   ██╗██╗███████╗
+            ██╔════╝████╗  ██║██╔════╝██║ ██╔╝██╔═══██╗    ██╔══██╗██║   ██║██║╚══███╔╝
+            █████╗  ██╔██╗ ██║█████╗  █████╔╝ ██║   ██║    ██████╔╝██║   ██║██║  ███╔╝ 
+            ██╔══╝  ██║╚██╗██║██╔══╝  ██╔═██╗ ██║   ██║    ██╔══██╗██║   ██║██║ ███╔╝  
+            ███████╗██║ ╚████║███████╗██║  ██╗╚██████╔╝    ██║  ██║╚██████╔╝██║███████╗
+            ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝
+```
