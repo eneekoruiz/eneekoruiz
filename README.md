@@ -17,3 +17,5 @@ I'm always open to collaborating on interesting stuff or just connecting. You ca
             ███████╗██║ ╚████║███████╗██║  ██╗╚██████╔╝    ██║  ██║╚██████╔╝██║███████╗
             ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝╚══════╝
 ```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
