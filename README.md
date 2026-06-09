@@ -2,6 +2,12 @@ Hi there. My name is Eneko and I'm a software engineer specialized in full stack
 
 My day-to-day consists of wrestling with **TypeScript** and **Java** to build robust APIs and scalable cloud architectures. I don't like over-engineering things; I focus on writing clean, maintainable code that actually solves problems.
 
+Languages:
+
+* Spanish (Native)
+* English (C1)
+* Basque (C1)
+
 When I'm not in front of the keyboard, I'm probably out playing the guitar, trying to brew the perfect specialty coffee, or reading about history.
 ```console
 
