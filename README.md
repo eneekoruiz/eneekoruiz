@@ -10,6 +10,6 @@ Languages:
 - English (C1)
 - Basque (C1)
 
-Outside the keyboard I usually end up with a guitar, coffee, or a history book.
+Outside the keyboard I usually end up with a guitar, coffee, or a even in another country.
 
 [LinkedIn](https://linkedin.com/in/eneekoruiz) | [Email](mailto:eneekoruiz@gmail.com)
