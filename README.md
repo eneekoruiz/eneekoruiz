@@ -1,6 +1,4 @@
-
-
-
+<pre align="center">
 ███████ ███    ██ ███████ ██   ██  ██████
 ██      ████   ██ ██      ██  ██  ██    ██
 █████   ██ ██  ██ █████   █████   ██    ██
@@ -14,6 +12,7 @@
          ██   ██  ██████  ██ ███████
 
       s o f t w a r e   e n g i n e e r
+</pre>
 
 Software engineer focused on full-stack work. I prefer simple, maintainable code and practical solutions over unnecessary complexity.
 
