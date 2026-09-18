@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.svg" width="100%" alt="Eneko Ruiz - Software Engineer" />
+</p>
+
 Software engineer focused on full-stack work. I prefer simple, maintainable code and practical solutions over unnecessary complexity.
 
 Languages:
@@ -9,19 +13,3 @@ Languages:
 Outside the keyboard I usually end up with a coffee, guitar or even in another country.
 
 [LinkedIn](https://linkedin.com/in/eneekoruiz) | [Email](mailto:eneekoruiz@gmail.com)
-
-<pre align="center">
-███████ ███    ██ ███████ ██   ██  ██████
-██      ████   ██ ██      ██  ██  ██    ██
-█████   ██ ██  ██ █████   █████   ██    ██
-██      ██  ██ ██ ██      ██  ██  ██    ██
-███████ ██   ████ ███████ ██   ██  ██████
-
-         ██████  ██    ██ ██ ███████
-         ██   ██ ██    ██ ██      ██
-         ██████  ██    ██ ██    ██  
-         ██   ██ ██    ██ ██  ██    
-         ██   ██  ██████  ██ ███████
-
-      s o f t w a r e   e n g i n e e r
-</pre>
