@@ -9,6 +9,4 @@ Languages:
 Outside the keyboard I usually end up with a coffee, guitar or even in another country.
 
 [LinkedIn](https://linkedin.com/in/eneekoruiz) | [Email](mailto:eneekoruiz@gmail.com)
-<p align="center">
-  <img src="header.svg" width="100%" alt="Eneko Ruiz - Software Engineer" />
-</p>
+
