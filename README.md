@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eneko Ruiz ??</h1>
+﻿<h1 align="center">Hi, I'm Eneko Ruiz 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c4965a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-  <a href="https://eneko-ruiz.vercel.app">Portfolio</a> �
-  <a href="https://linkedin.com/in/eneko-ruiz-421254410/">LinkedIn</a> �
+  <a href="https://eneko-ruiz.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/eneko-ruiz-421254410/">LinkedIn</a> •
   <a href="mailto:eneekoruiz@gmail.com">Email</a>
 </div>
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-### ?? Tech Stack
+### 💻 Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -57,7 +57,7 @@
 
 ---
 
-### ?? GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eneekoruiz&show_icons=true&bg_color=0d1117&title_color=c4965a&icon_color=c4965a&text_color=c9d1d9&border_color=30363d" width="49%" />
@@ -70,7 +70,7 @@
 
 ---
 
-### ?? Contribution Activity
+### 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eneekoruiz&bg_color=0d1117&color=c9d1d9&line=c4965a&point=ffffff&area=true&hide_border=true" width="100%" />
