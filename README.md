@@ -31,6 +31,7 @@ Software engineer focused on Full-Stack development, building robust and scalabl
   <img alt="Snake animation" src="snake/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
+
 <br/>
 
 <img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=161b22" alt="views" />
