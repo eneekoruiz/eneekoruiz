@@ -1,5 +1,4 @@
-Software engineer focused on full-stack work. I prefer simple, maintainable code and practical solutions over unnecessary complexity.
-
+Software engineer focused on full-stack work.
 Languages:
 
 - Spanish (native)
