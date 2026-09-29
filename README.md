@@ -1,59 +1,45 @@
 ﻿<div align="center">
-  <h1>Hi, I am Eneko Ruiz</h1>
-  <p><b>Software Engineer &middot; Full-Stack Developer</b></p>
+  <h1>Hi, I'm Eneko Ruiz</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c4965a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <p>
-    Construyendo aplicaciones web robustas y escalables con el foco puesto en la calidad del producto y el código limpio. Cuando no estoy tecleando, probablemente esté con un café, una guitarra o de viaje.
+    Software engineer focused on Full-Stack development, building robust and scalable web applications with an emphasis on product quality and clean code.
   </p>
   
+  <p>
+    <i>Outside the keyboard, I usually end up with a coffee, guitar, or traveling.</i>
+  </p>
+
   <p>
     <a href="https://eneko-ruiz.vercel.app">Portfolio</a> &nbsp;&middot;&nbsp;
-    <a href="https://eneko-ruiz-curriculum.vercel.app">Currículum</a> &nbsp;&middot;&nbsp;
-    <a href="https://linkedin.com/in/eneko-ruiz-421254410/">LinkedIn</a>
+    <a href="https://eneko-ruiz-curriculum.vercel.app">Curriculum</a> &nbsp;&middot;&nbsp;
+    <a href="https://linkedin.com/in/eneko-ruiz-421254410/">LinkedIn</a> &nbsp;&middot;&nbsp;
+    <a href="mailto:eneekoruiz@gmail.com">Email</a>
   </p>
-  
-  
+
+  <p>
+    <sub>Feel free to reach out in: Spanish (Native) &middot; English (C1) &middot; Basque (C1)</sub>
+  </p>
+
+  <p>
+    <img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=161b22" alt="views" />
+  </p>
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
-  <h3>Stack Principal</h3>
+  <h3>Tech Stack</h3>
   <br/>
   <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,nodejs,postgres,prisma,docker,figma&perline=12" />
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
-  <h3>Proyectos Destacados</h3>
+  <h3>Contribution Activity</h3>
   <br/>
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b><a href="https://eneko-ruiz.vercel.app">Portfolio Personal</a></b><br/>
-        Diseño minimalista, transiciones fluidas y alto rendimiento.<br/>
-        <i>HTML, CSS, JS</i>
-      </td>
-      <td align="center" width="50%">
-        <b><a href="#">Recordatorios App</a></b><br/>
-        PWA Full-Stack para gestión avanzada de tareas.<br/>
-        <i>React, Node.js, Prisma, PostgreSQL</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <h3>Actividad</h3>
-  <br/>
-  <!-- Gráfico 3D generado por Actions (puedes borrarlo si también lo ves sobrecargado) -->
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="snake/github-contribution-grid-snake-dark.svg" alt="Contribution Graph Snake Animation" width="100%" />
 </div>
