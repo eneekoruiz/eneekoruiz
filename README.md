@@ -1,4 +1,5 @@
 Software engineer focused on full-stack work.
+
 Languages:
 
 - Spanish (native)
