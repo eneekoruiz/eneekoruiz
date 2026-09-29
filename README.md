@@ -14,7 +14,7 @@
     <a href="https://linkedin.com/in/eneko-ruiz-421254410/">LinkedIn</a>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=eneekoruiz&color=c4965a&style=flat-square&label=VISITAS" alt="Visitor Count" />
+  
 </div>
 
 <br/>
