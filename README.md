@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I'm Eneko Ruiz 👋</h1>
+<h1 align="center">Hi, I'm Eneko Ruiz 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c4965a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
@@ -11,6 +11,7 @@
 
 <div align="center">
   <a href="https://eneko-ruiz.vercel.app">Portfolio</a> •
+  <a href="https://eneko-ruiz-curriculum.vercel.app">Currículum</a> •
   <a href="https://linkedin.com/in/eneko-ruiz-421254410/">LinkedIn</a> •
   <a href="mailto:eneekoruiz@gmail.com">Email</a>
 </div>
