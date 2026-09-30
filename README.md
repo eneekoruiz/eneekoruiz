@@ -4,7 +4,7 @@
 <tr>
 <td width="55%" valign="top" align="center">
 <h1>Hi, I'm Eneko Ruiz</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c4965a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c4965a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
 <p>Software engineer focused on Full-Stack development, building robust and scalable web applications with an emphasis on product quality and clean code.</p>
 <p><em>Outside the keyboard, I usually end up with a coffee, guitar, or traveling.</em></p>
 <p>
@@ -16,10 +16,7 @@
 <sub>Feel free to reach out — Spanish (Native) · English (C1) · Basque (C1)</sub>
 </td>
 <td width="45%" valign="top">
-<table width="100%"><tr>
-<td align="left" valign="middle"><h3>Tech Stack</h3></td>
-<td align="right" valign="middle"><img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=0d1117&style=flat-square" alt="views" /></td>
-</tr></table>
+<h3><img align="right" src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=0d1117&style=flat-square" alt="views" />Tech Stack</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,nodejs,postgres,prisma,docker,figma&perline=6" />
 <br/><br/>
