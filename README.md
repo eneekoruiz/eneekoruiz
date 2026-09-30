@@ -2,33 +2,25 @@
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top" align="left">
+<td width="55%" valign="top" align="left">
 <h1>Hi, I'm Eneko Ruiz</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c4965a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Clean+Code+Enthusiast" alt="Typing SVG" />
 <p>Software engineer focused on Full-Stack development, building robust and scalable web applications with an emphasis on product quality and clean code.</p>
 <p><em>Outside the keyboard, I usually end up with a coffee, guitar, or traveling.</em></p>
 <p>
-<a href="https://eneko-ruiz.vercel.app"><img src="https://cdn.simpleicons.org/vercel/c4965a" width="22" alt="Portfolio" title="Portfolio" /></a>&nbsp;&nbsp;
-<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://cdn.simpleicons.org/readthedocs/8b949e" width="22" alt="Curriculum" title="Curriculum" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://cdn.simpleicons.org/linkedin/0a66c2" width="22" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:eneekoruiz@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ea4335" width="22" alt="Email" title="Email" /></a>
+<a href="https://eneko-ruiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=c4965a" alt="Portfolio" /></a>&nbsp;
+<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://img.shields.io/badge/Curriculum-0d1117?style=flat-square&logo=googledocs&logoColor=8b949e" alt="Curriculum" /></a>&nbsp;
+<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:eneekoruiz@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>
 </p>
 <sub>Feel free to reach out in: Spanish (Native) · English (C1) · Basque (C1)</sub>
 </td>
-<td width="42%" valign="top" align="center">
-<h3>Tech Stack</h3>
-<br/>
+<td width="45%" valign="top" align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,nodejs,postgres,prisma,docker,figma&perline=6" />
 <br/><br/>
-<img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=161b22&style=flat-square" alt="views" />
-</td>
-</tr>
-<tr>
-<td align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=eneekoruiz&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c4965a&text_color=8b949e&icon_color=c4965a" width="100%" alt="GitHub Stats" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneekoruiz&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4965a&text_color=8b949e&langs_count=6" width="100%" alt="Top Languages" />
+<br/>
+<img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=0d1117&style=flat-square" alt="views" />
 </td>
 </tr>
 </table>
