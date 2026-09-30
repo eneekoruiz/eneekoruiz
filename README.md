@@ -8,10 +8,10 @@
 <p>Software engineer focused on Full-Stack development, building robust and scalable web applications with an emphasis on product quality and clean code.</p>
 <p><em>Outside the keyboard, I usually end up with a coffee, guitar, or traveling.</em></p>
 <p>
-<a href="https://eneko-ruiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c4965a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://img.shields.io/badge/Curriculum-161b22?style=flat-square&logo=googledocs&logoColor=white" alt="Curriculum" /></a>&nbsp;
-<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:eneekoruiz@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://eneko-ruiz.vercel.app"><img src="https://cdn.simpleicons.org/vercel/c4965a" width="22" alt="Portfolio" title="Portfolio" /></a>&nbsp;&nbsp;
+<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://cdn.simpleicons.org/readthedocs/8b949e" width="22" alt="Curriculum" title="Curriculum" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://cdn.simpleicons.org/linkedin/0a66c2" width="22" alt="LinkedIn" title="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:eneekoruiz@gmail.com"><img src="https://cdn.simpleicons.org/gmail/ea4335" width="22" alt="Email" title="Email" /></a>
 </p>
 <sub>Feel free to reach out in: Spanish (Native) · English (C1) · Basque (C1)</sub>
 </td>
