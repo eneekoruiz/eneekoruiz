@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="Eneko Ruiz" />
-
-<br/>
-
 <table width="100%">
 <tr>
 <td width="58%" valign="top" align="left">
@@ -12,10 +8,10 @@
 <p>Software engineer focused on Full-Stack development, building robust and scalable web applications with an emphasis on product quality and clean code.</p>
 <p><em>Outside the keyboard, I usually end up with a coffee, guitar, or traveling.</em></p>
 <p>
-<a href="https://eneko-ruiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c4965a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://img.shields.io/badge/Curriculum-161b22?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Curriculum" /></a>
-<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:eneekoruiz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://eneko-ruiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c4965a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://img.shields.io/badge/Curriculum-161b22?style=flat-square&logo=googledocs&logoColor=white" alt="Curriculum" /></a>&nbsp;
+<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:eneekoruiz@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 <sub>Feel free to reach out in: Spanish (Native) · English (C1) · Basque (C1)</sub>
 </td>
@@ -24,7 +20,7 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,nodejs,postgres,prisma,docker,figma&perline=6" />
 <br/><br/>
-<img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=161b22&style=for-the-badge" alt="views" />
+<img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=161b22&style=flat-square" alt="views" />
 </td>
 </tr>
 <tr>
