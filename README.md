@@ -24,18 +24,11 @@
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<hr/>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eneekoruiz&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c4965a&text_color=8b949e&icon_color=c4965a" width="100%" alt="GitHub Stats" />
 </td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<h3>Contribution Activity</h3>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="snake/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="snake/github-contribution-grid-snake.svg" />
-<img alt="Snake animation" src="snake/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eneekoruiz&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4965a&text_color=8b949e&langs_count=6" width="100%" alt="Top Languages" />
 </td>
 </tr>
 </table>
