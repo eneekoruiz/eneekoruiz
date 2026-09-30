@@ -13,15 +13,18 @@
 <a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:eneekoruiz@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-<p><sub>🗣️ <b>Spanish</b> (Native) &nbsp;·&nbsp; <b>English</b> (C1) &nbsp;·&nbsp; <b>Basque</b> (C1)</sub></p>
+<sub>Feel free to reach out — Spanish (Native) · English (C1) · Basque (C1)</sub>
 </td>
-<td width="45%" valign="top" align="center">
-<h3>Tech Stack</h3>
+<td width="45%" valign="top">
+<table width="100%"><tr>
+<td align="left" valign="middle"><h3>Tech Stack</h3></td>
+<td align="right" valign="middle"><img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=0d1117&style=flat-square" alt="views" /></td>
+</tr></table>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,nodejs,postgres,prisma,docker,figma&perline=6" />
 <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=eneekoruiz&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c4965a&text_color=8b949e&icon_color=c4965a" width="100%" alt="GitHub Stats" />
-<br/>
-<img src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=0d1117&style=flat-square" alt="views" />
+</div>
 </td>
 </tr>
 </table>
