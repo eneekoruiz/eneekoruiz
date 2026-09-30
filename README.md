@@ -5,7 +5,7 @@
 <td width="55%" valign="top" align="center">
 <h1>Hi, I'm Eneko Ruiz</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=c4965a&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
-<p>Software engineer focused on Full-Stack development, building robust and scalable web applications with an emphasis on product quality and clean code.</p>
+<p>Software Engineering student at UPV/EHU, building full-stack web applications with TypeScript, React, Next.js, and Node.js.</p>
 <p><em>Outside the keyboard, I usually end up with a coffee, guitar, or traveling.</em></p>
 <p>
 <a href="https://eneko-ruiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
@@ -17,10 +17,9 @@
 </td>
 <td width="45%" valign="top">
 <h3><img align="right" src="https://hits.sh/github.com/eneekoruiz/eneekoruiz.svg?color=c4965a&label=views&labelColor=0d1117&style=flat-square" alt="views" />Tech Stack</h3>
+<br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,nextjs,tailwind,nodejs,postgres,prisma,docker,figma&perline=6" />
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=eneekoruiz&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c4965a&text_color=8b949e&icon_color=c4965a" width="100%" alt="GitHub Stats" />
 </div>
 </td>
 </tr>
