@@ -20,10 +20,10 @@
 <td valign="top" align="center">
 <h3>Connect</h3>
 <p>
-<a href="https://eneko-ruiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c4965a?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://img.shields.io/badge/Curriculum-161b22?style=flat-square&logo=googledocs&logoColor=white" alt="Curriculum" /></a>&nbsp;
-<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:eneekoruiz@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://eneko-ruiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://eneko-ruiz-curriculum.vercel.app"><img src="https://img.shields.io/badge/Curriculum-4285F4?style=flat-square&logo=googledocs&logoColor=white" alt="Curriculum" /></a>&nbsp;
+<a href="https://linkedin.com/in/eneko-ruiz-421254410/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:eneekoruiz@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 </td>
 <td valign="top" align="center">
